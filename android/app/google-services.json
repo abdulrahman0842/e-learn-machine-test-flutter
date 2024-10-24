@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "351200080672",
+    "project_id": "elearn-2b051",
+    "storage_bucket": "elearn-2b051.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351200080672:android:b2828478aa3e1a2af3dd45",
+        "android_client_info": {
+          "package_name": "com.example.elearn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCniiC0-DAKQOrwHg_zLnw8DqStyTwqdvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
